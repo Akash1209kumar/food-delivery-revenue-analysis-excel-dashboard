@@ -169,9 +169,16 @@ Shows order volume across categories.
 
 ---
 
+
 ## 🟦 6. Screenshots / Demo
 
 ### 📊 Revenue Drivers Dashboard  
+![Revenue Drivers](./revenue_drivers_dashboard.png)
+
+---
+
+### 📊 Performance Overview  
+![Performance Overview](./Performance_overview_dashboard.png) 
 
 
 
