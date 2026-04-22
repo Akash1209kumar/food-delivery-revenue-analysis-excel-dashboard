@@ -172,12 +172,7 @@ Shows order volume across categories.
 ## 🟦 6. Screenshots / Demo
 
 ### 📊 Revenue Drivers Dashboard  
-![Revenue drivers](revenue_drivers_dashboard-1.png)
 
-### 📊 Performance Overview  
-![Performance overview](Performance_overview_dashboard-1.png)
-
----
 
 
 ⭐ If you found this useful, feel free to star the repository!# food-delivery-revenue-analysis-excel-dashboard
